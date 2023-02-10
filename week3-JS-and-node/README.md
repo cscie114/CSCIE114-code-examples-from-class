@@ -1,7 +1,7 @@
 ## CSCI E114 Jamstack
 ### Week 3 - "Advanced" Javascript and the NodeJS Ecosystem
 
-These examples walk through the lecture demonstration on Promises and async/await. 
+These examples walk through the lecture demonstration on Promises and async/await. Clone this repo to your local machine and run `npm install` to install the *node-fetch* dependency.
 
 + 00-asynchronous.js shows a complete fetch() Promise example with error handling
 + 01-demonstrate_node.js is a simple program you can run at the command-line with `node 0-1demonstrate-node` 
